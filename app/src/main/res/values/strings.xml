@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Otomotif</string>
+    <string name="otomotif1">Honda PCX160</string>
+    <string name="otomotif2">Kawasaki Ninja ZX-25R</string>
+    <string name="otomotif3">Honda CRF150L</string>
+    <string name="otomotif4">Honda Genio</string>
+    <string name="otomotif5">Honda Beat Street</string>
+    <string name="otomotif6">Vespa Sprint</string>
+    <string name="otomotif7">Yamaha MX King</string>
+    <string name="otomotif8">Honda CBR150R</string>
+    <string name="otomotif9">Honda CBR250RR</string>
+    <string name="otomotif10">Yamaha XSR 155</string>
+    <string name="textview">TextView</string>
+</resources>
